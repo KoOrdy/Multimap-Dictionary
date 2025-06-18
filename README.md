@@ -142,7 +142,3 @@ Where:
 * 💾 Save/load data from files
 * ✅ Add unit tests
 
----
-
-> Developed in C using classic data structures and clean, modular design.
-
