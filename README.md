@@ -1,9 +1,4 @@
-أكيد يا كوردى 👌
-اهي النسخة الكاملة للـ `README.md` كلها في **رسالة واحدة** تاخدها Copy & Paste على طول:
 
----
-
-````markdown
 # 📚 Multimap Dictionary in C
 
 This project implements a **Multimap Dictionary** — a data structure that maps each unique key to **multiple values**, with both keys and values stored in sorted order.  
